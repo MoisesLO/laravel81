@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="lineysoft.laravel81">
    <application
-        android:label="laravel81"
+        android:label="Laravel 8"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
@@ -39,6 +39,6 @@
             android:value="2" />
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-5852042324891789~9485556591"/>
+            android:value="ca-app-pub-5852042324891789~9293478073"/>
     </application>
 </manifest>
